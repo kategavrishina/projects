@@ -35,3 +35,9 @@
 Курсовая работа *"Эталонный корпус русского языка для универсального семантического парсинга"*, 2020
 
 [Репозиторий](https://github.com/kategavrishina/reference-russian-corpus)
+
+### Golang
+
+Имплементация библиотек в рамках теории алгоритмов.
+
+[Репозиторий](https://github.com/kategavrishina/hsecode-stdlib)
