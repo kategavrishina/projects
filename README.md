@@ -36,6 +36,12 @@
 
 [Репозиторий](https://github.com/kategavrishina/reference-russian-corpus)
 
+Выпускная квалификационная работа *"Моделирование распознавания семантических ролей для русского языка"*, 2021
+
+[Репозиторий](https://github.com/kategavrishina/srl-modeling)
+
+[Основной код](https://github.com/kategavrishina/projects/blob/main/SRL_Modeling.ipynb)
+
 ### Golang
 
 Имплементация библиотек в рамках теории алгоритмов.
